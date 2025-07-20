@@ -48,7 +48,6 @@ public class PulsarLogCollectClient extends AbstractLogConsumeClient<PulsarLogCo
 
     /**
      * init producer.
-     * 
      * @param config pulsar props
      */
     @Override
